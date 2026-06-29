@@ -223,5 +223,3 @@ See the LICENSE file for additional information.
 Felicio Xavier
 
 Blockchain Developer
-
-2019
